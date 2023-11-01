@@ -48,13 +48,3 @@ The script provides the following functionality:
 2. Place the script in the same directory as the 'eastvantagedb.db' and 'CREATE_DDL_STATEMENTS.sql' files.
 3. Run the script using a Python interpreter. The script will perform the analysis and generate an output file named 'output.csv.'
 4. You can view the results in the 'output.csv' file, which contains the total quantities purchased by customers aged 18 to 35.
-
-## Test Case
-A test case scenario is provided to verify the correctness of the analysis. For example, if Customer 1 bought Item X multiple times, the script will correctly calculate the total quantity of Item X for that customer.
-
-## Exception Handling
-The script includes error handling to catch and raise exceptions if any errors occur during the execution. If an error occurs, the script will print an error message and exit gracefully.
-
-Please note that the script's functionality is based on the provided database and data, and it may need modification if the database or data structure changes.
-
-For any questions or issues, please contact [Your Name] at [Your Email Address].
