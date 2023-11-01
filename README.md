@@ -6,7 +6,8 @@ This Python script is designed to analyze sales data for a fictional company nam
 ## Table Structure and Relationships
 The database used in this analysis consists of four tables: Sales, Orders, Customer, and Items. Here is an overview of their columns, primary keys (PK), and foreign key relationships:
 
-![Alt text](image.png)
+![image](https://github.com/ArunRangrej/Eastvantage_DE_Assignment/assets/54519488/6f6e3f56-39b6-4ea8-9867-435a30ba0c5b)
+
 
 1. **Sales Table**:
    - Columns: sales_id (PK), customer_id
